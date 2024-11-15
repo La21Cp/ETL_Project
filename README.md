@@ -8,7 +8,7 @@ Instalación
 Para comenzar con este proyecto, primero se deben instalar las dependencias necesarias para hacerlo sigue estos pasos
 
 1.Clona el repositorio
-git clone 
+Descargar el archivo zip con toda la carpeta y modulos del proyecto 
 
 2.Entorno y dependencias
 En tu computador personal debes tener python instalado y con su entorno configurado
